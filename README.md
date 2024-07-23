@@ -1,6 +1,3 @@
-# README.txt for Hexa-Band Quad-Circular-Polarization Slotted Patch Antenna Project
-
-## Project Title
 **Hexa-Band Quad-Circular-Polarization Slotted Patch Antenna for 5G, GPS, WLAN, LTE, and Radio Navigation Applications**
 
 ## Team Members
