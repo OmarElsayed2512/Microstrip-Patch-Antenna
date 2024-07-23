@@ -1,9 +1,9 @@
 **Hexa-Band Quad-Circular-Polarization Slotted Patch Antenna for 5G, GPS, WLAN, LTE, and Radio Navigation Applications**
 
 ## Team Members
-- Aser Osama (202101266)
-- Saifelden Mohamed (202100432)
-- Omar Elsayed (202100597)
+- Omar Elsayed
+- Aser Osama
+- Saifelden Mohamed
 
 ## Course Information
 **Course:** CIE 338 – Electromagnetic Fields and Waves II  
